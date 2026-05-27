@@ -1,0 +1,44 @@
+EMCC Unofficial Transcript
+Student: Allen Dean Schultz
+Gotten directly from my student portal at EMCC
+
+Degrees Awarded
+Institution	Degree Description	Award Title	Confer Date
+Estrella Mountain Comm College	Certificate of Completion	Networking Administration: Cisco	Thu, Dec 16, 1999
+
+Courses Taken - Results
+
+Fall 1999
+Subject	Catalog	Class Description	Units	Grade
+BPC	170	Computer Maintenance I:A+ Prep 	3	B
+CNT	160	Cisco Adv Routing & Switching 	3	A
+CNT	170	Cisco Project Based Learning 	3	A
+PHY	101	Introduction to Physics Natural Sciences Quant [SQ]     4	B
+
+Spring 1999
+Subject	Catalog	Class Description	Units	Grade
+BPC	128	Intro to Desktop Publishing 	1	W
+CNT	150	Cisco NET Router Tech 	3	A
+MAT	220	Analytic Geometry & Calculus I Mathematics [MA] 	5	B
+PHI	243	World Religions Global Awareness [G] Humanities, Arts & Design [HU] 	3	B
+
+Fall 1998
+Subject	Catalog	Class Description	Units	Grade
+CIS	162	C Programming I 	3	A
+CNT	140	Cisco Networking Fundamentals 	4	A
+CRE	101	Criticl/Eval Reading I Literacy & Critical Inq [L] 	3	A
+PSY	101	Introduction to Psychology Social-Behavioral Sc [SB] 	3	B
+
+Spring 1998
+Subject	Catalog	Class Description	Units	Grade
+ECN	111	Macroeconomic Principles Social-Behavioral Sc [SB] 	3	C
+ENG	102	First-Year Composition 	3	A
+MAT	212	Brief Calculus Mathematics [MA] 	3	C
+PHI	101	Introduction to Philosophy Humanities, Arts & Design [HU] 	3	B
+
+Fall 1997
+Subject	Catalog	Class Description	Units	Grade
+COM	100	Intro to Human Communication Social-Behavioral Sc [SB] 	3	A
+ENG	101	First-Year Composition 	3	A
+MAT	151	College Algebra/Functions Mathematics [MA] 	4	A
+RDG	091	College Reading Skills I 	3	A
