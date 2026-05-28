@@ -1,0 +1,104 @@
+SLCC Transcript
+Allen Dean Schultz
+Gotten from an emailed official transcript.
+Transcript Date Issued: 27-MAY-2026/OFFICIAL
+
+First Admit: Spring Semeseter 2001
+Last Admit: Fall Semeseter 2016
+
+Current Program
+Degree: Associate of Science
+Program: Computer Sci & Info Systems: AS
+Major:
+Computer Sci & Info Systems
+
+Degree Information:
+Degrees Awarded Associate of Science 10-AUG-2004
+
+Primary Degree
+Program: Computer Science: AS
+Maojor:
+Computer Science
+Degree Information:
+Degree Awarded Certificate of Proficiency 07-AUG-2017
+
+Primary Degree
+Program: Linux System Administration:CP
+Major:
+Linux System Administration
+
+Transfer Credit Accepted by Institution from EMCC:
+COM 1010 Elements/Effect Com 2 TR
+CS 0050 Computer Science - Elective 3 TR
+ENGL 1010 Intro Writing 3 TR
+ENGL 2010 Inter Writing 3 TR
+GS 1XXX General Ed Electives 6 TR
+HUMA 2350 HIS/PHIL-Religion 3 TR
+MATH 1050 College Algebra 4 TR
+MATH 1210 Calculus I 4 TR
+PHIL 1010 Intro/Philosophy 3 TR
+PHY 1010 Elem Physics 3 TR
+PSY 1010 Gen Psychology 3 TR
+    37 Earned HRS
+
+Spring 2001
+BIT 1810 Database Software NG
+
+Fall 2001
+CS 1820 Intro/CS II 4 D
+CS 2130 Unix Internals 3 B
+ECON 1740 US ECN History(AI) 3 B
+FIN 100 Personal Finance9ID) 3 A
+
+Spring 2002
+CS 2620 Computer Architecture 4 B
+CS 2750 Software Engr 3 C+
+MATH 1220 Calculus II 4 C-
+
+Fall 2002
+HLA 1450 Racquetball I(PE) 1 A-
+PHY 2210 Engineering Physics I 4 B
+PHY 2230 Engineering Physiscs Lab I(PS) 1 B+
+
+Spring 2003
+ART 1050 Intro Photography 9FA) 3 D-
+BIOL 1110 Intro to Human Anat/Phys (BS) 3 C-
+
+Fall 2003
+CIS 2760 Java I 3 B
+CS 1820 Intro to Computer Science II 4 E
+
+Spring 2004
+CS 1100 Computer Operations 2 A
+CS 2400 Data Communications/Networking 5 C
+
+Spring 2005
+CIS 2600 Fundamentals of Database Mgmnt 3 B-
+ENGL 2100 Technical Writing (EN) 3 C+
+
+Fall 2005
+GER 1010 Beginning German I 5 E
+HLAC 1410 Tai Chi 1 C
+
+Spring 2006
+CIS 2800 Business Systems Design 3 E
+EDDT 1040 Introduction to AutoCAD 3 A
+
+Fall 2016
+CSIS 1032 Introduction to Linux 3 A
+
+Spring 2017
+CSIS 1132 Linux System Admin I 3 A
+
+Summer 2017
+CSIS 2132 Linux System Admin II 3 A
+
+Spring 2018
+CSIS 2360 Certified Ethical Hacker 4 A
+
+Transcript Totals Earned Hrs GPA Hrs Points GPA
+Total Institution 72.27 80.00 21.60 2.69
+Total Transfer 37.00 0.00 0.00 0.00
+Overall 109.27 80.00 215.60 2.69
+
+
