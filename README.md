@@ -32,7 +32,8 @@ Systems administrator and network professional with 15+ years of technical exper
 | NOC Technician | [View](resumes/2026-05-22%20-%20Allen%20Schultz%20-%20NOC%20Analyst%20Resume.md) |
 | Data Entry | [View](resumes/2026-05-22%20-%20Allen%20Schultz%20-%20Data%20Entry%20Resume.md) |
 | General Admin / Office | [View](resumes/2026-05-22%20-%20Allen%20Schultz%20-%20General%20Admin%20Office%20Resume.md) |
-| Master / Long-form | [View](resumes/2026-05-22%20-%20Allen%20Schultz%20-%20Resume%20Archive%20(Master).md) |
+| Master / Long-form (current, 2026-09-19) | [View](<resumes/2026-09-19 - Allen Schultz - Resume Archive (Master).pdf>) |
+| Master / Long-form (superseded, 2026-05-22) | [View](resumes/2026-05-22%20-%20Allen%20Schultz%20-%20Resume%20Archive%20(Master).md) |
 
 ## Cover Letters
 
